@@ -33,6 +33,7 @@ namespace Roman_to_int
             Console.WriteLine("請輸入羅馬字母:");
             string input = Console.ReadLine();
             Console.WriteLine(RomanToInt(input).ToString());
+            //finsh
         }
     }
 }
